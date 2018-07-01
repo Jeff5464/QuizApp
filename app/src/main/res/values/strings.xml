@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="wrong_answer">"Wrong! Try again"</string>
+    <string name="correct_answer">"Great!"</string>
+
+    <!--Question 1 translations-->
+    <string name="Question_1">Q1.Trade is best described as?</string>
+    <string name="answer1_1">Buying and selling of goods</string>
+    <string name="answer1_2">Goods displayed</string>
+    <string name="answer1_3">Production of goods</string>
+    <string name="answer1_4">Selling of goods</string>
+
+    <!--Question 2 translations-->
+    <string name="Question_2">Q4. All the following are examples of domestic trade except…?</string>
+    <string name="answer2_1">Ibadan and Lagos</string>
+    <string name="answer2_2">Benue and Kaduna</string>
+    <string name="answer2_3">Enugu and London</string>
+    <string name="answer2_4">Kano and Sokoto</string>
+
+    <!--Question 3 translations-->
+    <string name="Question_3">Q5. Foreign Trade consists of…</string>
+    <string name="answer3_1">Imports and Exports</string>
+    <string name="answer3_2">Wholesale and Retail Trade</string>
+    <string name="answer3_3">Mining and Fishing</string>
+    <string name="answer3_4">Storage of goods</string>
+
+    <!--Question 4 translations-->
+    <string name="Question_4">Q6. Another name for home trade is..?</string>
+    <string name="answer4_1">External</string>
+    <string name="answer4_2">Domestic</string>
+    <string name="answer4_3">Wholesale</string>
+    <string name="answer4_4">Retail</string>
+
+    <!--Question 5 translations-->
+    <string name="Question_5">Q7. The creation of utilities is termed?</string>
+    <string name="answer5_1">Industry</string>
+    <string name="answer5_2">Creativity</string>
+    <string name="answer5_3">Production</string>
+    <string name="answer5_4">Commerce</string>
+
+    <!--Question 6 Edit text-->
+    <string name="Question_6">Q3. SOURCES OF FUNDS INCLUDE....?</string>
+
+    <!--Edit text hint-->
+    <string name="Hint_1">Enter services here</string>
+
+    <!--Question 7 translations-->
+    <string name="Question_7">Q2. The following people are involved in domestic trade except</string>
+
+    <!--Options For radio button-->
+    <string name="Option1_1">Wholesalers</string>
+    <string name="Option1_2">Importers</string>
+    <string name="Option1_3">Retailers</string>
+
+    <!--Submit bottom-->
+    <string name="Submit">Submit</string>
+    <string name="submit">SUBMIT</string>
+
+
+</resources>
+

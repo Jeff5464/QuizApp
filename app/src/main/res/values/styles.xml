@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#a04caf</item>
+        <item name="colorPrimaryDark">#386c8e</item>
+        <item name="colorAccent">#537948</item>
+    </style>
+
+    <!-- Style for the ANSWERS. -->
+    <style name="ButtonTextStyle">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:background">@drawable/attribute_buttons</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <!-- Style for the QUESTIONS. -->
+    <style name="QuestionsTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!--Style for Submit button.-->
+    <string name="SubmitButtonStyle">
+        <item name="buttonColor">#19CC95</item>
+        <item name="buttonText">SUBMIT</item>
+        <item name="buttontextSize">15sp</item>
+        <item name="SucceedColor">#19CC95</item>
+        <item name="failedColor">#FC8E34</item>
+        <item name="progressStyle">loading</item>
+    </string>
+
+</resources>
